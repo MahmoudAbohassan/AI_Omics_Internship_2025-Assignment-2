@@ -1,0 +1,8 @@
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
+raw/*.zip
+raw/*.gz
+*.tmp
+
